@@ -2,7 +2,7 @@ MinigamesSignsMCPE
 ==================
 * ToDoList
 
-  - [ ] Get Started
+  - [x] Get Started
   - [ ] Test
   - [ ] Fix Problems 
   - [ ] Publish Alpha
