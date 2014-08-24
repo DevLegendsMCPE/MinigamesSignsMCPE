@@ -1,0 +1,11 @@
+---
+name: MiniGSigns
+main: MiniGSigns\main
+version: 0.0.1
+api: [1.0.0]
+description: Official plugin for Pocketmine API 1.0.0 
+website: none
+commands:
+ mgsign:
+  description: "Command to manage some sign with virtual-money on the server server"
+  
