@@ -1,6 +1,6 @@
 MinigamesSignsMCPE
 ==================
-* ToDoList
+## ToDoList
 
   - [x] Get Started
   - [ ] Test
@@ -11,3 +11,6 @@ MinigamesSignsMCPE
   - [ ] Publish Beta
   - [ ] Test
   - [ ] Publish Stable
+
+## Warning 
+This plugin is not finished. We recomend that you do not download.
