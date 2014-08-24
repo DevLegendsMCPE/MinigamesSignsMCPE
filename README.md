@@ -1,16 +1,19 @@
 MinigamesSignsMCPE
 ==================
-## ToDoList
-
+## Alpha Testing
   - [x] Get Started
-  - [ ] Test
-  - [ ] Fix Problems 
-  - [ ] Publish Alpha
-  - [ ] Test
-  - [ ] Fix Problems
-  - [ ] Publish Beta
-  - [ ] Test
-  - [ ] Publish Stable
+  - [x] Preparing
+  - [ ] Adding Features
+
+## Beta Testing
+
+  - [ ] Debug
+  - [ ] Testing
+
+## Publishing
+
+  - [ ] Publish to forums
+  - [ ] Write Description
 
 ## Warning 
 This plugin is not finished. We recomend that you do not download.
