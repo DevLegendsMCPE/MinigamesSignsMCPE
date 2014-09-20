@@ -184,5 +184,8 @@ Class main extends PluginBase implements Listener{
           }
        }
     }
+    public function onDisable(){
+        $this->getLogger->info("MiniGSigns Diabled");
+    }
 }
 
